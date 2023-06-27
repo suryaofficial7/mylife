@@ -1,2 +1,3 @@
 # mylife
-FUCKING LIFE
+this
+
